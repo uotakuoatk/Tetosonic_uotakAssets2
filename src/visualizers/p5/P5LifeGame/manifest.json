@@ -1,0 +1,6 @@
+{
+  "kind": "p5",
+  "id": "p5-life-game",
+  "name": "Life Game",
+  "description": "Conway's Game of Life (100x26 board) with seeded initial pattern"
+}
