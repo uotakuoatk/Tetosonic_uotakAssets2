@@ -1,0 +1,6 @@
+{
+  "kind": "p5",
+  "id": "p5-fourier-transform",
+  "name": "Fourier Transform",
+  "description": "Draws Fourier Transform01.svg with epicycles and traced stroke"
+}
